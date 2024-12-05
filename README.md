@@ -11,4 +11,5 @@ Stack:
 
 Using API: [dummyjson](https://dummyjson.com/docs/products)
 
-![](https://github.com/KDmasterLOL/ShopSwift/blob/main/video_preview.mp4)
+https://github.com/user-attachments/assets/3ca9350b-c0c3-4ab3-a48c-d97ec35131d1
+
